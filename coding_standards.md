@@ -20,15 +20,16 @@ The names of functions should document their use.
 
 - It is clearest to have the function and its m-file names the same. Using lower case avoids potential filename problems in mixed operating system environments.
 - Functions should have meaningful names!
-	Use computetotalwidth()
-	Avoid compwid()
+```matlab
+Use computetotalwidth()
+Avoid compwid()
+```
 	
-- Abbreviations in names should be avoided.
-	Using whole words reduces ambiguity and helps to make the code self-documenting.
-	```matlab
-	Use computearrivaltime(.)
-	Avoid comparr(.)
-	```
+- Abbreviations in names should be avoided. Using whole words reduces ambiguity and helps to make the code self-documenting.
+```matlab
+Use computearrivaltime(.)
+Avoid comparr(.)
+```
 
 ## Loops
 Loop variables should be initialized immediately before the loop.
@@ -48,10 +49,12 @@ mention needed improvements. Experience indicates that it is better to write com
 same time as the code rather than to intend to add comments later.
 
 ## Avoid cryptic code
-Martin Fowler: “Any fool can write
-code that a computer can understand. Good programmers write code that humans can
-understand.” Kreitzberg and Shneiderman: “Programming can be fun, so can cryptography;
-however they should not be combined.”
+>Martin Fowler: “Any fool can write
+>code that a computer can understand. Good programmers write code that humans can
+>understand.” 
+
+>Kreitzberg and Shneiderman: “Programming can be fun, so can cryptography;
+>however they should not be combined.”
 	
 ## Files and Organization
 The best way to write a big program is to assemble it from well designed small pieces (usually
