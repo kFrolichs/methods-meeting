@@ -26,7 +26,7 @@ A repository to show github
 
 
 ## Useful links
-[Github Intro](https://guides.github.com/activities/hello-world/)
-[Forking](https://guides.github.com/activities/forking/)
-[Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
-[Suggested coding standards](https://www.ee.columbia.edu/~marios/matlab/MatlabStyle1p5.pdf)
+- [Github Intro](https://guides.github.com/activities/hello-world/)
+- [Forking](https://guides.github.com/activities/forking/)
+- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+- [Suggested coding standards](https://www.ee.columbia.edu/~marios/matlab/MatlabStyle1p5.pdf)
